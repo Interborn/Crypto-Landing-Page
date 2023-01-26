@@ -181,17 +181,21 @@ export const clients = [
   {
     id: "client-1",
     logo: airbnb,
+    name: "airbnb",
   },
   {
     id: "client-2",
     logo: binance,
+    name: "binance",
   },
   {
     id: "client-3",
     logo: coinbase,
+    name: "coinbase",
   },
   {
     id: "client-4",
     logo: dropbox,
+    name: "dropbox",
   },
 ];
