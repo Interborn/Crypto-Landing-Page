@@ -2,7 +2,7 @@
   <h1 style="text-align: center;">Crypto Landing Page</h1>
   <divider />
   <img src="https://i.ibb.co/9ZVbG7K/225748befd2fd366633d7cab86b44a6d.png">
-  <p>This project, while used as a tool to assist me in mastering React through project-based learning, was inspirational. I am a developer with one eye looking to the future, and AI is a huge part of that. What GPT-3 has done and what GPT-4 will do, is astonishing and I applaud OpenAI for their continuous work and development. I enjoyed writing this front-end and have plans to tweak it further soon. If you enjoy, give it a star!</p>
+  <p>This project was inspired from a wireframe and turned into reality through the powers of react and computer science (and a lot of coffee)!</p>
 </div>
 
 # Getting Started with Create React App
