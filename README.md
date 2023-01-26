@@ -2,7 +2,7 @@
   <h1 style="text-align: center;">Crypto Landing Page</h1>
   <divider />
   <img src="https://i.ibb.co/9ZVbG7K/225748befd2fd366633d7cab86b44a6d.png">
-  <p>This project was inspired from a wireframe and turned into reality through the powers of react and computer science (and a lot of coffee)!</p>
+  <p>This project was inspired from a wireframe and turned into reality through the powers of react and computer science (and a lot of coffee)! I was really able to learn Tailwind to create beautiful websites with minimal and more compact CSS.</p>
 </div>
 
 # Getting Started with Create React App
